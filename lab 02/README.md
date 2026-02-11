@@ -13,5 +13,5 @@
 ## Contents
 - data/train.csv
 - notebook/lab2_dataset_inspection.ipynb
-- diagram/methodology.png
+- diagram/methodology.drawio.png
 
